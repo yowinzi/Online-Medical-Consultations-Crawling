@@ -17,7 +17,9 @@ requests == 2.25.1
 
 ## Run
 
-Just call the fuction in crawler.py with different parameters, e.g., " crawler.getAllArticles("復健科") ". Then, you will get the QA pairs of the correspond department.
+Just call the fuction in crawler.py with different parameters, e.g., " crawler.getAllArticles("復健科") ".
+
+Then, you will get the QA pairs of the correspond department.
 
 ```sh
 python crawler.py
